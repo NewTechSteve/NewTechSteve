@@ -10,6 +10,9 @@
 
 🔹 Tech consultant for multiple businesses, ensuring seamless digital transformations.
 
+## 🚀 About Me
+I am the founder of **[Realtec Systems & Innovative Solutions](https://realtecsysolution.co.ke)**, where we build cutting-edge software solutions for businesses worldwide.
+
 ## 🌍 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Stephen_Akuno-blue?logo=linkedin)](https://www.linkedin.com/in/stephen-akuno-a611522b7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTjX1dU7DQrKMJRj5V8K%2F7Q%3D%3D)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?logo=web)](https://mana.co.ke/portfolio?access=zSG1Rp%2BFYg9fewoKqXgokw%3D%3D)
