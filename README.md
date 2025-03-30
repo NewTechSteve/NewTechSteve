@@ -1,4 +1,4 @@
-![Header](https://your-image-url.com/header-image.gif)
+![Header](https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif)
 
 # 👋 Hi, I'm Stephen Ndong’a Akuno
 
@@ -11,8 +11,8 @@
 🔹 Tech consultant for multiple businesses, ensuring seamless digital transformations.
 
 ## 🌍 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Stephen_Akuno-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?logo=web)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Stephen_Akuno-blue?logo=linkedin)](https://linkedin.com/in/stephen-akuno)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?logo=web)](https://mana.co.ke/portfolio?access=zSG1Rp%2BFYg9fewoKqXgokw%3D%3D)
 [![Email](https://img.shields.io/badge/Email-akunostphn@gmail.com-red?logo=gmail)](mailto:akunostphn@gmail.com)
 
 ---
@@ -51,20 +51,29 @@ A robust system for booking cars, chauffeurs, and airport transfers.
 ### 🏥 [Smart Clinical Officer Chatbot](https://smartclinician.com)
 An AI-driven chatbot assisting patients in medical consultations.
 
-![Projects GIF](https://your-image-url.com/projects.gif)
+![Projects GIF](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NewTechSteve&theme=dark&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NewTechSteve&layout=compact&theme=dark)
+
+---
+
+## 💡 Fun Fact
+
+> "The best way to predict the future is to invent it." – Alan Kay
+
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
 ### 📩 Want to Collaborate?
 📧 **Email:** akunostphn@gmail.com
 
-![Footer GIF](https://your-image-url.com/footer.gif)
+🔹 *"Passionate about leveraging technology to create impact! Let's innovate together."*
+![Footer GIF](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
 
 ---
 
