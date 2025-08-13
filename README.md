@@ -14,9 +14,9 @@
 I am the founder of **[Realtec Systems & Innovative Solutions](https://realtecsysolution.co.ke)**, where we build cutting-edge software solutions for businesses worldwide.
 
 ## 🌍 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Stephen_Akuno-blue?logo=linkedin)](https://www.linkedin.com/in/stephen-akuno-a611522b7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTjX1dU7DQrKMJRj5V8K%2F7Q%3D%3D)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?logo=web)](https://mana.co.ke/portfolio?access=zSG1Rp%2BFYg9fewoKqXgokw%3D%3D)
-[![Email](https://img.shields.io/badge/Email-akunostphn@gmail.com-red?logo=gmail)](mailto:akunostphn@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Stephen_Akuno-blue?logo=linkedin)](https://www.linkedin.com/in/akuno-stephen?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7FykVd4wTw%2Bis7vlPNDHCw%3D%3D)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-green?logo=web)](https://akuno.dev.djemarts.us/)
+[![Email](https://img.shields.io/badge/Email-akunostephen@gmail.com-red?logo=gmail)](mailto:akunostephen@gmail.com)
 
 ---
 
@@ -73,7 +73,7 @@ An AI-driven chatbot assisting patients in medical consultations.
 ---
 
 ### 📩 Want to Collaborate?
-📧 **Email:** akunostphn@gmail.com
+📧 **Email:** akunostephen@gmail.com
 
 🔹 *"Passionate about leveraging technology to create impact! Let's innovate together."*
 ![Footer GIF](https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif)
